@@ -17,7 +17,7 @@ For converting the source of this document from Markdown format into other forma
 
 I suppose you have [Git](https://git-scm.com/) and [Pandoc](http://pandoc.org/) installed (with their respective dependencies) and accessible through a shell.
 
-1. Download the ODF-Guidance folder from GitHub. The directory contains this README file, a `src` directory containing a Markdown (.md) file for each chapter of the document; a `templgoogle photoates` folder containing the LaTeX and ODT templates which are slightly modified versions of the ones offered by Pandoc; an `output` directory containing some conversion samples.
+1. Download the `ODF-Guidance` folder from GitHub. The directory contains this README file, a `src` directory containing a Markdown (.md) file for each chapter of the document; a `templates` folder containing the LaTeX and ODT templates which are slightly modified versions of the ones offered by Pandoc; an `output` directory containing some conversion samples.
 
 > ```$ git clone https://github.com/paolodongilli/ODF-Guidance.git```
 
