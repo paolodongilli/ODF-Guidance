@@ -6,6 +6,8 @@ Updated: 11 September 2015
 
 Source: [https://www.gov.uk/guidance/open-document-format-odf-guidance-for-uk-government](https://www.gov.uk/guidance/open-document-format-odf-guidance-for-uk-government)
 
+Copyright (c) Crown Copyright
+
 License: This document is licensed under the [Open Government Licence v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 ## Information on the ODF standard and how to move your organisation to ODF-compliant document solutions.
