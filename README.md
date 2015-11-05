@@ -1,6 +1,6 @@
 # Open Document Format (ODF): A Guidance for Governments
 
-The present document in its initial release doesn't bring anything more, in terms of content, to the original UK guidance acknowledged below. 
+The present document in its initial release doesn't bring anything more, in terms of content, to the original ODF guidance from the Cabinet Office of the UK Government acknowledged below. 
 
 The need of a fork was mainly meant to render the document in a textual format (Pandoc's Markdown) in order to be able to store it onto a public repository (GitHub) and easily keep track of versions and changes.
 The original guidance is available in HTML format only, accessible by means of copy and paste from the UK Government web pages. 
